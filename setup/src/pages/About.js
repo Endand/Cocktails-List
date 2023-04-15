@@ -5,10 +5,13 @@ const About = () => {
     <section className="section about-section">
       <h1 className="section-title">About Us</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio
-        exercitationem facere deserunt voluptate laborum in eveniet ipsum illo
-        repellendus? Veniam minus voluptatibus harum assumenda at, nihil nobis
-        iure ex minima excepturi qui incidunt quos quas?
+        This project showcases an interactive and informative list of
+        captivating cocktails, providing users with detailed insights into each
+        cocktail's name, category, alcoholic information, recommended glassware,
+        unique instructions, and a list of exquisite ingredients. Additionally,
+        users can easily search for a specific cocktail by name, enhancing their
+        browsing experience and making it effortless to explore the world of
+        mixology with style and sophistication.
       </p>
     </section>
   );
